@@ -1,4 +1,4 @@
-# Automatic-Ticket-Assignment-
+# Automatic-Ticket-Assignment
 
 ## How to run API
 
